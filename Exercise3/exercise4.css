@@ -1,0 +1,46 @@
+p 
+{ 
+    background-color: teal; color: white; 
+    font-family: arial; font-size: 22pt; 
+    text-align: justify;
+} 
+
+p.myRules {
+    background-color: darkgray; color: red; 
+    font-family: arial; font-size: 12pt; 
+}
+
+h2 {
+    background-color: darkgray; color: red; 
+}
+
+/*body 
+{ 
+    background-color: blue; 
+} */
+
+body 
+{ 
+    background-image: url(./assets/Screenshot-court4.webp); background-size: 100% auto; 
+} 
+
+a 
+{ 
+    background-color: blue; 
+    color: red; 
+} 
+ 
+a:hover 
+{ 
+    background-color: red; 
+    color: blue 
+} 
+
+img {
+    float: left;
+    margin: 5px;
+  }
+
+h1 {
+    color: white
+}
