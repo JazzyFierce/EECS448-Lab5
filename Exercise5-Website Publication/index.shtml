@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    <Title>Isabel Loney's KU Page</Title>
+    <link href="index.css" 
+            rel="stylesheet" 
+            type="text/css"/> 
+
+</head>
+<body>
+    <h1>Lab 5 Exercise 5</h1>
+    <p>Here you can find the other 4 parts of this assignment</p>
+
+	<a href="./Exercise1-PasswordValidator/Exercise1.html">Exercise 1: Password Validator</a> <br>
+    <a href="./Exercise2-Slideshow/Exercise2.html">Exercise 2: Slideshow</a> <br>
+    <a href="./Exercise3-PersonalProfile/Exercise3.html">Exercise 3: "Personal" Profile</a> <br>
+    <a href="./Exercise4-StyleManip/Exercise4.html">Exercise 4: CSS Manipulation</a> <br>
+</body>

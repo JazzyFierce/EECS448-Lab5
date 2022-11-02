@@ -1,0 +1,33 @@
+body 
+{ 
+    background-image: url(./assets/IsabelScreensaver.jpg); background-size: 100% auto; 
+    background-attachment: fixed;
+}
+
+h1 {
+	color: magenta;
+}
+
+p {
+	color: orchid;
+}
+
+a {
+    font-size: large;
+}
+a:link 
+{ 
+    background-color: blueviolet; 
+    color: pink; 
+} 
+ 
+a:hover 
+{ 
+    background-color: pink; 
+    color: blueviolet; 
+} 
+
+a:visited {
+    color: white;
+}
+
