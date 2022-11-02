@@ -1,0 +1,21 @@
+body
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    padding:0px;
+    margin: 0%;
+}
+
+div.forms {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    bottom: 5px;
+    left: 5px;
+    overflow: auto;
+    padding:5px;
+}

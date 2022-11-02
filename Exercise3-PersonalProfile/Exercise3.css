@@ -1,0 +1,62 @@
+h1
+{
+    background-color: tan;
+    color:black;
+    text-align: center;
+}
+
+div 
+{
+    background-color: gray;
+}
+
+p 
+{ 
+    background-color: teal; color: white; 
+    font-family: 'Lucida Handwriting', cursive; font-size: 25pt; 
+    text-align: justify;
+} 
+
+p.myRules {
+    background-color: darkgray; color: red; 
+    font-family: 'Times New Roman', Times, serif; font-size: 12pt; 
+}
+
+h2 {
+    background-color: darkgray; color: red; 
+}
+
+body 
+{ 
+    background-image: url(./assets/Screenshot-court4.webp); background-size: 100% auto; 
+    background-attachment: fixed;
+}
+
+a {
+    font-size: large;
+}
+a:link 
+{ 
+    background-color: teal; 
+    color: red; 
+} 
+ 
+a:hover 
+{ 
+    background-color: red; 
+    color: teal 
+} 
+
+a:visited {
+    color:whitesmoke;
+}
+
+a:active {
+    color: tan;
+}
+
+img {
+    float: left;
+    margin-right: 5px;
+    margin-left: 0px;
+}

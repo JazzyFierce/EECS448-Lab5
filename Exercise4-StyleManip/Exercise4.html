@@ -1,5 +1,17 @@
-<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <link href="Exercise4.css" 
+            rel="stylesheet" 
+            type="text/css"/> 
+    <title>Exercise 4: CSS Manipulation with JavaScript</title>
+</head>
 <body>
+    <div class="forms">
+    <p>
+        Use the text boxes to reformat the page!
+        <br>Colors are determing using rgb, so enter numbers 0-255 for color attributes
+    </p>
     <form>
         <b>Border</b><br>
         Red Value: <input type="text" id="RedBorder"><br>
@@ -11,5 +23,8 @@
         Blue Value: <input type="text" id="BlueBackground"><br>
         Green Value: <input type="text" id="GreenBackground"><br>
     </form>
-    <button onclick="on_confirm()">Apply Changes</button>
+    <button onclick="apply()">Apply Changes</button>
+    </div>
 </body>
+<script type="text/javascript" src="Exercise4.js"></script>
+</html>
